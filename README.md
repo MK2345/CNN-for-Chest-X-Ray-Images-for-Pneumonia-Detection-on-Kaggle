@@ -1,7 +1,8 @@
 # CNN-for-Chest-X-Ray-Images-for-Pneumonia-Detection-on-Kaggle
 Kaggle hosts several datasets of chest X-ray images for pneumonia detection using deep learning models. 
 
-### Interpretation: The models are very good at detecting pneumonia cases. They are more cautious in classifying normal cases, resulting in a high precision but a lower recall. The models tend to diagnose pneumonia when in doubt, which is often preferred in a medical context to avoid missing cases.
+### Interpretation: 
+The models are very good at detecting pneumonia cases. They are more cautious in classifying normal cases, resulting in a high precision but a lower recall. The models tend to diagnose pneumonia when in doubt, which is often preferred in a medical context to avoid missing cases.
 
 I will train more models with this dataset on occasion to further improve performance.
 
